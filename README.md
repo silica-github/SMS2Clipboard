@@ -1,5 +1,5 @@
 # Kazumi-SMS2Clipboard
-读取短信内容到剪切板，方便 Android Emulator 与生产环境间的简单文本交换。
+读取短信内容到剪切板，方便 Android Emulator 与开发环境间的简单文本交换。
 
 ### 注意：新版本的 Android Emulator 已经能直接读写系统剪切板了，不用往下看了
 
